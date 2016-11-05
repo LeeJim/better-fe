@@ -1,12 +1,45 @@
 # Front-End-Study-List 
- WEB前端学习列表
+ WEB前端学习列表，纯粹分享，独乐了不如众乐乐。
 
-React
+## Node.js
+前端通往后端之路的必要技能。
 
----
+- [Node.js官网](https://nodejs.org/en/) 感觉学到最后，发现还是官方文档可靠
+
+- [nodecloud](http://www.nodecloud.org/) 查看与Node.js相关的比较火的项目
+
+- [understanding Node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb) 入门可以看看
+
+- [infoQ 深入浅出Node.js系列](http://www.infoq.com/cn/master-nodejs)
+
+- [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/) 理解事件循环
+
+
+## React
+React是现在比较火的前端View框架，很有必要学习一下。
 
 - [InfoQ 深入浅出React系列](http://www.infoq.com/cn/articles/react-art-of-simplity?utm_source=articles_about_React1&utm_medium=link&utm_campaign=React1)
 
 - [FaceBook官方手册](https://facebook.github.io/react/tutorial/tutorial.html)
 
 - [React & Webpack 小书](https://fakefish.github.io/react-webpack-cookbook/index.html)
+
+## 文章订阅
+前端开发的变化实在太快，订阅最新的资讯可以让我们不至于落后太多。另外，大部分都是英语的。
+
+- [Nicholas C. Zakas](https://www.nczonline.net/index.html) 尼古拉斯的博客，首推！
+
+- [quirksmode](http://quirksmode.org/)
+
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+
+- [Toptal](https://www.toptal.com/developers/blog)
+
+- [Adrian Mejia Blog](http://adrianmejia.com/)
+
+- [modernweb](https://modernweb.com/)
+
+- [infoQ](http://www.infoq.com/cn/) 中文社区，有很多系列文章写得不错
+
+
+喜欢的话，Star一下呗。
