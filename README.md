@@ -24,6 +24,10 @@ React是现在比较火的前端View框架，很有必要学习一下。
 
 - [React & Webpack 小书](https://fakefish.github.io/react-webpack-cookbook/index.html)
 
+- [Redux 官方文档](http://redux.js.org/)
+
+- [React Router Tutorial](https://github.com/reactjs/react-router-tutorial) 通俗易懂，一系列的简单DEMO，跟着做就懂了
+
 ## 文章订阅
 前端开发的变化实在太快，订阅最新的资讯可以让我们不至于落后太多。另外，大部分都是英语的。
 
