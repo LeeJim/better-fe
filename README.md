@@ -45,5 +45,13 @@ React是现在比较火的前端View框架，很有必要学习一下。
 
 - [infoQ](http://www.infoq.com/cn/) 中文社区，有很多系列文章写得不错
 
+## HTTP
+前端开发还是很有必要去了解HTTP的一些知识的。
+
+- [W3C HTTP - Hypertext Transfer Protocol](https://www.w3.org/Protocols/)
+
+- [RFC2616 HTTP/1.1](http://ietf.org/rfc/rfc2616.txt)
+
+- [RFC1945 HTTP/1.0](http://ietf.org/rfc/rfc1945.txt)
 
 喜欢的话，Star一下呗。
