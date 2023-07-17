@@ -1,5 +1,6 @@
-# Front-End-Study-List 
- WEB前端学习列表，纯粹分享，独乐了不如众乐乐。
+# Better FE
+ 
+ 成为更好的前端(FrontEnd)工程师。
  
 ## ECMA Script
 
