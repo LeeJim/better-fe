@@ -1,0 +1,15 @@
+{
+  "name": "better-fe",
+  "version": "1.0.0",
+  "description": "成为更好的前端(FrontEnd)工程师。",
+  "main": "parallel.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
