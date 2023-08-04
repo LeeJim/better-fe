@@ -103,7 +103,8 @@ describe('object', () => {
   test('cyclic', () => {})
   
   test('complex', () => {
-    expect(myStringify(complex)).toBe(stringify(complex))
+    const heavy = { ...simple, ...complex, simple, complex }
+    expect(myStringify(heavy)).toBe(stringify(heavy))
   })
   
   test('with toJSON method', () => {
